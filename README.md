@@ -13,7 +13,7 @@
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="">
-          <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/1.png" alt="TCS CODEVITA SEASON 12" width="120" />
+          <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/tcs.jpeg" alt="TCS CODEVITA SEASON 12" width="120" />
           <br>
           <strong>TCS CODEVITA SEASON 12</strong>
         </a>
@@ -29,56 +29,56 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Explorer%20Badge.png" alt="C++" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/c++.png" alt="C++" width="80" />
               <br>
-              <strong>Explorer Badge</strong>
+              <strong>C++</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Adventurer%20Badge.png" alt="JAVA" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/java.png" alt="JAVA" width="80" />
               <br>
-              <strong>Adventurer Badge</strong>
+              <strong>JAVA</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Trailblazer%20Badge.png" alt="PYTHON" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/python.png" alt="PYTHON" width="80" />
               <br>
-              <strong>Trailblazer Badge</strong>
+              <strong>PYTHON</strong>
             </td>
 	    <td style="padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/PostmanAPI.png" alt="HTML" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/html.png" alt="HTML" width="80" />
               <br>
-              <strong>Postman Badge</strong>
+              <strong>HTML</strong>
             </td>
 	    <td style="padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Code%20Luminary.png" alt="CSS" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/css.jpeg" alt="CSS" width="80" />
               <br>
-              <strong>Code-Luminary </strong>
+              <strong>CSS</strong>
             </td>
           </tr>
           <tr align="center">
               <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Champion%20Badge.png" alt="BOOTSTRAP" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/bootstrap.jpeg" alt="BOOTSTRAP" width="80" />
               <br>
-              <strong>Champion Badge</strong>
+              <strong>BOOTSTRAP</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Summit%20Seeker%20Badge.png" alt="NODE.JS" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/notejs.jpeg" alt="NODE.JS" width="80" />
               <br>
-              <strong>SummitSeeker Badge</strong>
+              <strong>NODE.JS</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Innovator_Badge.png" alt="MYSQL" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/mysql.jpeg" alt="MYSQL" width="80" />
               <br>
-              <strong>Innovator Badge</strong>
+              <strong>MYSQL</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/HackWeb-Badge.png" alt="AWS" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/aws.jpeg" alt="AWS" width="80" />
               <br>
-              <strong>Web3 Badge</strong>
+              <strong>AWS</strong>
             </td>
 	    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/PrAyAg9/PrAyAg9/blob/main/Pull%20Expert.png" alt="GCP" width="80" />
+              <img src="https://github.com/Rakesh689558/Rakesh689558/blob/main/gcp.jpeg" alt="GCP" width="80" />
               <br>
-              <strong>Pull Expert </strong>
+              <strong>GCP</strong>
             </td>
           </tr>
         </table>
